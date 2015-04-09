@@ -6,10 +6,15 @@ io.janusproject.kernel.repository
 io.janusproject.kernel.services
 io.janusproject.kernel.services.arakhne
 io.janusproject.kernel.services.gson
+io.janusproject.kernel.services.guava
 io.janusproject.kernel.services.hazelcast
 io.janusproject.kernel.services.jdk
 io.janusproject.kernel.services.jdk.contextspace
+io.janusproject.kernel.services.jdk.distributeddata
 io.janusproject.kernel.services.jdk.executors
+io.janusproject.kernel.services.jdk.infrastructure
+io.janusproject.kernel.services.jdk.kerneldiscovery
+io.janusproject.kernel.services.jdk.logging
 io.janusproject.kernel.services.jdk.network
 io.janusproject.kernel.services.jdk.spawn
 io.janusproject.kernel.services.zeromq
